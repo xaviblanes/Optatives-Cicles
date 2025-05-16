@@ -1,164 +1,38 @@
-# MÓDULO: INTRODUCCIÓN A LA NUBE PÚBLICA
-## DURACIÓN: 96 horas
+# MÒDUL: INTRODUCCIÓ AL NÚVOL PÚBLIC
+## DURADA: 96 hores
+___
+### RESULTATS DE L'APRENENTATGE I CRITERIS D'AVALUACIÓ
 
-## RESULTADOS DE APRENDIZAJE Y CRITERIOS DE EVALUACIÓN
-RA1. Comprende los fundamentos de la computación en la nube, sus ventajas frente a sistemas tradicionales, el marco de adopción, los principios de migración y los aspectos clave de facturación, como estimación y optimización de costos.
-Se ha comprendido los conceptos fundamentales de la computación en la nube.
-Se ha demostrado la capacidad para explicar las ventajas de la nube frente a sistemas tradicionales.
-Se ha participado en actividades relacionadas con el ecosistema de servicios en la nube.
-Se han identificado los principios básicos de la facturación y costos en la nube.
-Se ha hecho uso correcto de herramientas para estimar y gestionar presupuestos.
-Se ha participado en actividades prácticas sobre gestión de costos.
+RA1. Comprèn els fonaments de la computació al núvol, els seus avantatges davant de sistemes tradicionals, el marc d'adopció, els principis de migració i els aspectes clau de facturació, com ara estimació i optimització de costos. S'han comprès els conceptes fonamentals de la computació al núvol. S'ha demostrat la capacitat per explicar els avantatges del núvol davant de sistemes tradicionals. S'ha participat en activitats relacionades amb l'ecosistema de serveis al núvol. S'han identificat els principis bàsics de la facturació i els costos al núvol. S'ha fet un ús correcte d'eines per estimar i gestionar pressupostos. S'han participat a activitats pràctiques sobre gestió de costos.
 
-RA2. Identifica los componentes clave de la infraestructura global de la nube, diferenciando servicios principales, regiones, zonas de disponibilidad y aplicando medidas básicas de
-seguridad como el modelo de responsabilidad compartida, gestión de accesos y protección de datos.
-Se ha adquirido conocimiento de los componentes de una infraestructura global en la nube.
-Se ha demostrado la capacidad para explorar y describir las principales categorías de servicios disponibles.
-Se ha realizado una evaluación del uso adecuado de servicios básicos en ejercicios prácticos.
-Se ha comprendido el modelo de responsabilidad compartida en la nube.
-Se ha aplicado medidas de seguridad básicas mediante herramientas de gestión de acceso.
-Se han realizado ejercicios sobre gestión de usuarios y políticas de seguridad.
+RA2. Identifica els components clau de la infraestructura global del núvol, diferenciant serveis principals, regions, zones de disponibilitat i aplicant mesures bàsiques de seguretat com ara el model de responsabilitat compartida, gestió d'accessos i protecció de dades. S'ha adquirit coneixement dels components d'una infraestructura global al núvol. S'ha demostrat la capacitat per a explorar i descriure les categories de serveis principals disponibles. S'ha realitzat una avaluació de l'ús adequat de serveis bàsics en exercicis pràctics. S'ha comprès el model de responsabilitat compartida al núvol. S'han aplicat mesures de seguretat bàsiques mitjançant eines de gestió d'accés. S'han fet exercicis sobre gestió d'usuaris i polítiques de seguretat.
 
-RA3. Diseña y configura redes virtuales y servicios de cómputo en la nube, aplicando buenas prácticas de seguridad, estrategias de balanceo de carga, escalado automático y aprovechando tecnologías serverless, contenedores y máquinas virtuales según casos de uso específicos.
-Se ha realizado el diseño y configuración de redes virtuales privadas.
-Se ha aplicado buenas prácticas de seguridad en redes y arquitecturas.
-Se ha participado activamente en la creación y configuración de una red funcional.
-Se ha realizado la selección de servicios de computación adecuados según casos de uso.
-Se ha llevado a cabo la configuración y gestión de balanceo de carga y escalado automático.
-Se han desarrollado prácticas relacionadas con la optimización de recursos computacionales.
+RA3. Dissenya i configura xarxes virtuals i serveis de còmput al núvol, aplicant bones pràctiques de seguretat, estratègies de balanceig de càrrega, escalat automàtic i aprofitant tecnologies serverless, contenidors i màquines virtuals segons casos d'ús específics. S'ha realitzat el disseny i la configuració de xarxes virtuals privades. S'han aplicat bones pràctiques de seguretat en xarxes i arquitectures. S'ha participat activament en la creació i la configuració d'una xarxa funcional. S'ha realitzat la selecció de serveis de computació adequats segons els casos d'ús. S'ha dut a terme la configuració i gestió de balanceig de càrrega i escalat automàtic. S'han desenvolupat pràctiques relacionades amb l'optimització de recursos computacionals.
 
-RA4. Gestiona servicios de almacenamiento y bases de datos en la nube, seleccionando tecnologías adecuadas para casos específicos, y diseña arquitecturas escalables y resilientes
-utilizando herramientas de monitoreo y optimización para mejorar el rendimiento.
-Se ha realizado la diferenciación entre tecnologías de almacenamiento en la nube.
-Se ha llevado a cabo la configuración y gestión de bases de datos en un entorno de nube.
-Se ha trabajado en la resolución de problemas prácticos sobre almacenamiento y bases de datos.
-Se ha diseñado arquitecturas escalables y resilientes basadas en las mejores prácticas.
-Se ha hecho uso de herramientas de monitoreo y recomendaciones de optimización.
-Se ha participado en actividades que simulen el análisis y mejora de arquitecturas existentes.
-## CONTENIDOS ORIENTATIVOS:
-### Introducción a la Nube:
-¿Qué es la computación en la nube? Ventajas de la nube frente a sistemas tradicionales.
-Introducción al ecosistema de la nube. Principios de migración a la nube.
-### Facturación y Economía de la Nube:
-Aspectos fundamentales de los precios. Uso de herramientas como la calculadora de costos.
-Modelos de soporte técnico. Gestión de costos y herramientas para calcular costos.
-### Infraestructura Global y Servicios Principales:
-Infraestructura global. Categorías de servicios. Exploración de la consola de administración.
-Navegación por la infraestructura global y servicios principales.
-### Seguridad en la Nube:
-Modelo de responsabilidad compartida. Identidad y gestión de acceso. Protección de cuentas y
-datos. Conformidad y mejores prácticas de seguridad. Introducción a la gestión de accesos.
-### Redes y Entrega de Contenido:
-Conceptos básicos de redes. Configuración de Red Virtual. Seguridad en redes y diseño de arquitecturas. Servicios de enrutamiento y distribución de contenido. Crear una Red Virtual y lanzar un servidor web.
-### Informática y Escalado Automático:
-Introducción a los servicios de cómputo. Uso de máquinas virtuales y Lambda.
-Balanceo de carga y escalado automático. Escalado y balanceo de la carga de una arquitectura.
-### Almacenamiento y Bases de Datos:
-Servicios de almacenamiento: disco duro en nube, almacenamiento, EFS. Introducción a bases de datos: Relacionales, No SQL y otros servicios. Creación y gestión de una base de datos.
-Selección de tecnologías de almacenamiento.
-### Arquitectura y Monitoreo:
-Principios del marco de trabajo: Well-Architected. Uso de herramientas como Monitorización y asistentes de infraestructura. Diseño de arquitecturas resilientes y escalables. Interpretación de recomendaciones de optimización.
----
-# MÓDULO: INTRODUCCIÓN A LA PROGRAMACIÓN
-## DURACIÓN: 96 HORAS
-## CFGM SISTEMAS MICROINFORMÁTICOS Y REDES
-## CFGS ADMINISTRACIÓN DE SISTEMAS INFORMÁTICOS EN RED
+RA4. Gestiona serveis d'emmagatzematge i bases de dades al núvol, seleccionant tecnologies adequades per a casos específics, i dissenya arquitectures escalables i resilients utilitzant eines de monitorització i optimització per millorar-ne el rendiment. S'ha fet la diferenciació entre tecnologies d'emmagatzematge al núvol. S'ha dut a terme la configuració i la gestió de bases de dades en un entorn de núvol. S'ha treballat per resoldre problemes pràctics sobre emmagatzematge i bases de dades. S'han dissenyat arquitectures escalables i resilients basades en les millors pràctiques. S'han fet servir eines de monitorització i recomanacions d'optimització. S'ha participat en activitats que simulen l'anàlisi i la millora d'arquitectures existents.
 
-## RESULTADOS DE APRENDIZAJE Y CRITERIOS DE EVALUACIÓN
-RA1. Reconoce la estructura de un programa informático, identificando y relacionando los elementos propios del lenguaje de programación utilizado.
-Se han identificado los bloques que componen la estructura de un programa informático.
-Se han creado proyectos de desarrollo de aplicaciones 
-Se han utilizado entornos integrados de desarrollo.
-Se han identificado los distintos tipos de variables y la utilidad específica de cada uno.
-Se ha modificado el código de un programa para crear y utilizar variables.
-Se han creado y utilizado constantes y literales.
-Se han clasificado, reconocido y utilizado en expresiones los operadores del lenguaje.
-Se ha comprobado el funcionamiento de las conversiones de tipo explícitas e implícitas.
-Se han introducido comentarios en el código.
+## CONTINGUTS ORIENTATIUS:
 
-RA2. Escribe y prueba programas sencillos, reconociendo y aplicando los fundamentos de la
-programación orientada a objetos.
-Se han identificado los fundamentos de la programación orientada a objetos.
-Se han escrito programas simples.
-Se han instanciado objetos a partir de clases predefinidas.
-Se han utilizado métodos y propiedades de los objetos.
-Se han escrito llamadas a métodos estáticos.
-Se han utilizado parámetros en la llamada a métodos.
-Se han incorporado y utilizado librerías de objetos.
-Se han utilizado constructores.
-Se ha utilizado el entorno integrado de desarrollo en la creación y compilación de programas simples.
+1. Introducció al Núvol:
+Què és la computació al núvol? Avantatges del núvol davant de sistemes tradicionals. Introducció a l'ecosistema del núvol. Principis de migració al núvol.
 
-RA3. Escribe y depura código, analizando y utilizando las estructuras de control del lenguaje.
-Se ha escrito y probado código que haga uso de estructuras de selección.
-Se han utilizado estructuras de repetición.
-Se han reconocido las posibilidades de las sentencias de salto.
-Se ha escrito código utilizando control de excepciones.
-Se han creado programas ejecutables utilizando diferentes estructuras de control.
-Se han probado y depurado los programas.
-Se ha comentado y documentado el código.
-Se han creado excepciones.
-Se han utilizado aserciones para la detección y corrección de errores durante la fase de desarrollo.
+2. Facturació i Economia del Núvol:
+Aspectes fonamentals dels preus. Ús d'eines com la calculadora de costos. Models de suport tècnic. Gestió de costos i eines per calcular costos.
 
-RA4. Desarrolla programas organizados en clases analizando y aplicando los principios de la programación orientada a objetos.
-Se ha reconocido la sintaxis, estructura y componentes típicos de una clase.
-Se han definido clases.
-Se han definido propiedades y métodos.
-Se han creado constructores.
-Se han desarrollado programas que instancien y utilicen objetos de las clases creadas anteriormente.
-Se han utilizado mecanismos para controlar la visibilidad de las clases y de sus miembros.
-Se han definido y utilizado clases heredadas.
-Se han creado y utilizado métodos estáticos.
-Se han creado y utilizado conjuntos y librerías de clases.
+3. Infraestructura Global i Serveis Principals:
+Infraestructura global. Categories de serveis. Exploració de la consola d'administració. Navegació per la infraestructura global i serveis principals.
 
-RA5. Realiza operaciones de entrada y salida de información, utilizando procedimientos
-específicos del lenguaje y librerías de clases.
-Se ha utilizado la consola para realizar operaciones de entrada y salida de información.
-Se han aplicado formatos en la visualización de la información.
-Se han reconocido las posibilidades de entrada / salida del lenguaje y las librerías asociadas.
-Se han utilizado ficheros para almacenar y recuperar información.
-Se han creado programas que utilicen diversos métodos de acceso al contenido de los ficheros.
-Se han utilizado las herramientas del entorno de desarrollo para crear interfaces gráficos de usuario simples.
-Se han programado controladores de eventos.
-Se han escrito programas que utilicen interfaces gráficos para la entrada y salida de información.
+4. Seguretat al Núvol:
+Model de responsabilitat compartida. Identitat i gestió daccés. Protecció de comptes i dades. Conformitat i millors pràctiques de seguretat. Introducció a la gestió daccessos.
 
-RA6. Escribe programas que manipulen información, seleccionando y utilizando tipos avanzados de datos.
-Se han escrito programas que utilicen matrices (arrays).
-Se han reconocido las librerías de clases relacionadas con tipos de datos avanzados.
-Se han utilizado listas para almacenar y procesar información.
-Se han utilizado iteradores para recorrer los elementos de las listas.
-Se han reconocido las características y ventajas de cada una de las colecciones de datos
-disponibles.
-Se han creado clases y métodos genéricos.
-Se han utilizado expresiones regulares en la búsqueda de patrones en cadenas de texto.
-Se han identificado las clases relacionadas con el tratamiento de documentos escritos en
-diferentes lenguajes de intercambio de datos.
-Se han realizado programas que realicen manipulaciones sobre documentos escritos en
-diferentes lenguajes de intercambio de datos.
-Se han utilizado operaciones agregadas para el manejo de información almacenada en
-colecciones.
+5. Xarxes i Lliurament de Contingut:
+Conceptes bàsics de xarxes. Configuració de Xarxa Virtual. Seguretat a les xarxes i disseny d'arquitectures. Serveis d'encaminament i distribució de contingut. Crear una Xarxa Virtual i llençar un servidor web.
 
-## CONTENIDOS ORIENTATIVOS:
-### Identificación de los elementos de un programa informático:
-Estructura y bloques fundamentales. Variables. Tipos de datos. Literales. Constantes.
-Operadores y expresiones. Conversiones de tipo. Comentarios.
-### Utilización de objetos:
-Características de los objetos. Instanciación de objetos. Utilización de métodos. Parámetros.
-Utilización de propiedades. Utilización de métodos estáticos. Constructores. Destrucción de
-objetos y liberación de memoria.
-### Uso de estructuras de control:
-Estructuras de selección. Estructuras de repetición. Estructuras de salto. Control de excepciones.
-Aserciones. Prueba, depuración y documentación de la aplicación.
-### Desarrollo de clases:
-Concepto de clase. Estructura y miembros de una clase. Visibilidad. Creación de propiedades.
-Creación de métodos. Creación de constructores. Utilización de clases y objetos. Utilización de
-clases heredadas.
-### Lectura y escritura de información:
-Flujos. Tipos: bytes y caracteres. Clases relacionadas. Ficheros de datos. Registros. Apertura y
-cierre de ficheros. Modos de acceso. Escritura y lectura de información en ficheros. Utilización
-de los sistemas de ficheros. Creación y eliminación de ficheros y directorios. Entrada desde
-teclado. Salida a pantalla. Formatos de visualización. Interfaces gráficas. Concepto de evento.
-Creación de controladores de eventos.
-### Aplicación de las estructuras de almacenamiento:
-Estructuras estáticas y dinámicas. Creación de matrices (arrays). Matrices (arrays)
-multidimensionales. Genericidad. Cadenas de caracteres. Expresiones regulares. Colecciones:
-Listas, Conjuntos y Diccionarios. Operaciones agregadas: filtrado, reducción y recolección.
+6. Informàtica i Escalat Automàtic:
+Introducció als serveis de còmput. Ús de màquines virtuals i Lambda. Balanceig de càrrega i escalat automàtic. Escalat i balanceig de la càrrega d'una arquitectura.
+
+7. Emmagatzematge i Bases de Dades:
+Serveis d'emmagatzematge: disc dur al núvol, emmagatzematge, EFS. Introducció a bases de dades: Relacionals, No SQL i altres serveis. Creació i gestió duna base de dades. Selecció de tecnologies demmagatzematge.
+
+8. Arquitectura i Monitorització:
+Principis del marc de treball: Well-Architected. Ús d'eines com ara Monitorització i assistents d'infraestructura. Disseny d'arquitectures resilients i escalables. Interpretació de recomanacions d'optimització.
